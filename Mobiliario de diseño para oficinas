@@ -1,0 +1,15 @@
+<!-- wp:paragraph -->
+<p>Mobiliario a buen precio</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":45,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/mobiliario.jpg?w=340" alt="" class="wp-image-45"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":47,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/escritorio.jpg?w=555" alt="" class="wp-image-47"/><figcaption>Algunas ideas de diseño para tu oficina</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":49,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/oficina.jpg?w=550" alt="" class="wp-image-49"/></figure>
+<!-- /wp:image -->
