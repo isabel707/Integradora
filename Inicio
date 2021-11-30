@@ -1,0 +1,35 @@
+<!-- wp:paragraph -->
+<p><strong>Bienvenidos a Integradora </strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:query {"queryId":8,"query":{"perPage":"10","pages":0,"offset":0,"postType":"post","categoryIds":[],"tagIds":[],"order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:post-featured-image {"isLink":true,"align":"wide"} /-->
+
+<!-- wp:image {"id":10,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/business.jpg?w=880" alt="" class="wp-image-10"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":52,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/tienda.jpg?w=880" alt="" class="wp-image-52"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:spacer {"height":120} -->
+<div style="height:120px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-pagination -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-next {"label":"  "} /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:query -->
+
+<!-- wp:paragraph -->
+<p>Contacto</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Dirección: Allende #35</li><li>Teléfono: 3691257103</li><li>Email: integradora@gmail.com</li></ul>
+<!-- /wp:list -->
