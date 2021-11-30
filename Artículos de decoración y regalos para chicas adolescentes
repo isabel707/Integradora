@@ -1,0 +1,13 @@
+<!-- wp:paragraph -->
+<p>Descuentos en artículos y decoraciones </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":40,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/maquillaje.jpg?w=550" alt="" class="wp-image-40"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:image {"id":42,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://integradora667397913.files.wordpress.com/2021/11/lamparas.jpg?w=600" alt="" class="wp-image-42"/></figure>
+<!-- /wp:image -->
